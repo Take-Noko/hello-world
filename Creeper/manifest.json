@@ -5,7 +5,7 @@
 		"name": "§lTest ADO-ON§r",
 		"uuid": "b3a86845-845a-4a97-986e-46c0e5845afc",
 		"version": [1, 0, 0],
-		"min_engine_version": [1, 20, 30]
+		"min_engine_version": [1, 20, 50]
 	},
 	"modules": [
 		{
